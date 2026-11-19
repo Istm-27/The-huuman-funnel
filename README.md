@@ -158,7 +158,7 @@ reports/                  # Generated reports directory (auto-created)
 
 1. **Clone and install dependencies:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Istm-27/The-huuman-funnel
    cd job-candidate-filtering-funnel
    npm install
    npm run install:frontend
@@ -451,5 +451,4 @@ Each service documentation includes:
 5. Open a Pull Request
 
 ## License
-
-This project is licensed under the ISC License - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
